@@ -1,4 +1,4 @@
-<h1 align="center" >What's up, I'm Sebastian <img src="https://cdn3.emoji.gg/emojis/7011-active-developer-badge.png" width=25px >![image](https://github.com/user-attachments/assets/00c5205d-8c8e-4f2e-9537-dd5075cc2c8c)
+<h1 align="center" >What's up, I'm Sebastian <img src="https://cdn3.emoji.gg/emojis/7011-active-developer-badge.png" width=25px >  ![image](https://github.com/user-attachments/assets/aeae7cdb-1a84-4580-83c5-8ba6bcc57a37)
  </h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
