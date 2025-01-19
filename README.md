@@ -1,2 +1,2 @@
-<h1 align="center">What's up dude, I'm Sebastian <img src="https://icons8.com/icon/0vJNjSJWpHy7/discord-active-developer-badge" ></h1>
+<h1 align="center">What's up, I'm Sebastian <img src="" width=25px ></h1>
 
