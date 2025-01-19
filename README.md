@@ -1,4 +1,4 @@
-<h1 align="center">What's up, I'm Sebastian <img src="https://cdn3.emoji.gg/emojis/7011-active-developer-badge.png" width=25px > <img src="https://a0.anyrgb.com/pngimg/1688/250/antix-linux-logo-tux-the-penguin-debian-linux-kernel-tux-gnu-linux-operating-system-installation.png" width=25px ></h1>
+<h1 align="center">What's up, I'm Sebastian <img src="https://cdn3.emoji.gg/emojis/7011-active-developer-badge.png" width=25px > <img src="https://iconduck.com/icons/27613/linux-tux" width=25px ></h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Programador+Full-Stack;Técnico+en+Sistemas" alt="Typing SVG" />
