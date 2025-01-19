@@ -6,5 +6,5 @@
   </a>
 </div>
 
-![Uploading image.png…]()
+<img src="./banner.jpg" >
 
