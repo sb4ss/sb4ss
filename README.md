@@ -6,5 +6,6 @@
   </a>
 </div>
 
-<img src="./banner.jpg" >
+![Banner](./banner.jpg)
+
 
