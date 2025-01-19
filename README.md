@@ -6,6 +6,6 @@
   </a>
 </div>
 
-![Banner](./banner.jpg)
+![Banner](./banner.png)
 
 
