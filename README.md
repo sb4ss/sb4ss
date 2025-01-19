@@ -6,6 +6,6 @@
   </a>
 </div>
 
-<img src="./banner.png" alt="Banner" width="1000px">
+<img src="./banner.png" alt="Banner" width="auto">
 
 
