@@ -19,4 +19,6 @@ This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.
 - I am a student of programming at the Politecnico Internacional de Occidente in Cali, Colombia. 
 
 
+### My tech Stack 💻 ###
+
 
