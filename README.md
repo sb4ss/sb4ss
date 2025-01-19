@@ -6,6 +6,6 @@
   </a>
 </div>
 
-![Banner](./banner.png)
+<img src="./banner.png" alt="Banner" width="800">
 
 
