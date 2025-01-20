@@ -20,4 +20,7 @@ This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.
 
 
 ### My tech Stack 💻 ###
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+<div align="center" >
+       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" > 
+</div>
+
