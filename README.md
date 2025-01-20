@@ -83,13 +83,7 @@ This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.
   
 <br/>
 
-
-  
-<br/>
-
-</a>
-  
-</div>
+<img src="./made-whit-♥.svg" alt="svg" width="auto">
 
 
 
