@@ -74,7 +74,7 @@ This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.
 <div align="center" >
        <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" >
 </div>
-
+<br>
 <div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastianzapata123&theme=github_dark)
