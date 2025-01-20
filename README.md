@@ -71,9 +71,6 @@ This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.
         <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 </div>
 
-<div align="center" >
-       <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" >
-</div>
 <br>
 <div align="center">
   
@@ -92,5 +89,9 @@ This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.
 
 </a>
   
+</div>
+
+<div align="center" >
+       [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzUuNjg3NTI0Nzk1NTMyMjMiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMzUuNjg3NTI0Nzk1NTMyMjMgMzUiPjxyZWN0IHdpZHRoPSIxMDYuNjA5Mzk3ODg4MTgzNiIgaGVpZ2h0PSIzNSIgZmlsbD0iIzRmNTA1MCIvPjxyZWN0IHg9IjEwNi42MDkzOTc4ODgxODM2IiB3aWR0aD0iMjkuMDc4MTI2OTA3MzQ4NjMzIiBoZWlnaHQ9IjM1IiBmaWxsPSIjMmUyZTJlIi8+PHRleHQgeD0iNTMuMzA0Njk4OTQ0MDkxOCIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjYzNjMWMxIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+TUFERSBXSElUPC90ZXh0Pjx0ZXh0IHg9IjEyMS4xNDg0NjEzNDE4NTc5MSIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI2VlMGEwYSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9IjIiPuKZpTwvdGV4dD48L3N2Zz4=)](https://forthebadge.com)
 </div>
 
