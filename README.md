@@ -71,3 +71,4 @@ This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.
         <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username={SebastianZapata123}&theme=blue-green" >
