@@ -70,12 +70,4 @@ This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
         <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 </div>
-<div align="center" >
-       <img src="">
-       <img src="">
-       <img src="">
-         <img src="">
-        <img src="">
-        <img src="">
-       <img src="">
-</div>
+
