@@ -12,7 +12,7 @@
 ### About me 👨‍💻 ###
 This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.app/
 - I'm 19 years old 
-- I'm about to start my studies as a systems engineer 💻
+- I'm studying systems engineering 💻
 - Participant in the hackatoon 2024 in the city of Cali, organized by fedesoft - cenisoft - NIDO.
 - I ♥ Basketball
 - I have been learning autonomously programming for about a year now.
