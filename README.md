@@ -10,7 +10,7 @@
 <img src="./banner.png" alt="Banner" width="auto">
 
 ### About me 👨‍💻 ###
-This is my portfolio web: https://portfolio-sebastianzapata123s-projects.vercel.app/
+This is my portfolio web: https://sb4ss.vercel.app/
 - I'm 19 years old 
 - I'm studying systems engineering 💻
 - Participant in the hackatoon 2024 in the city of Cali, organized by fedesoft - cenisoft - NIDO.
