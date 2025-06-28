@@ -83,7 +83,7 @@ This is my portfolio web: https://sb4ss.vercel.app/
   
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sb4ss&theme=github_white)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sb4ss&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sb4ss&theme=github_dark)
   
 <br/>
