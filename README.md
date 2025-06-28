@@ -85,7 +85,8 @@ This is my portfolio web: https://sb4ss.vercel.app/
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sb4ss&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sb4ss&theme=github_dark)
-  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sb4ss&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sb4ss&theme=github_dark&utcOffset=8)
 <br/>
  
 <img src="./made-whit-♥.svg" alt="svg" width="auto">
