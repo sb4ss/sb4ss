@@ -17,9 +17,10 @@ This is my portfolio web: https://sb4ss.vercel.app/
 - I'm studying systems engineering 💻
 - Participant in the hackatoon 2024 in the city of Cali, organized by fedesoft - cenisoft - NIDO.
 - I ♥ Basketball
-- I have been learning autonomously programming for about a year now.
-- I am a student of programming at the Politecnico Internacional de Occidente in Cali, Colombia. 
-
+- I have been learning autonomously programming for about two years.
+- I'm a student of programming at the Politecnico Internacional de Occidente in Cali, Colombia. 
+- I ♥ Clean Code and hexagonal architecture.  
+- I would like to learn low-level programming by 2026. 
 
 ### My tech Stack 💻 ###
 <div align="center" >
