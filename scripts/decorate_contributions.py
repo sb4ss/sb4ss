@@ -37,7 +37,7 @@ def decorate(path, weeks):
     columns = sorted({float(r.get('x', '0')) for r in cells})
     if len(columns) != len(weeks):
         raise ValueError('Calendar weeks do not match the generated snake grid')
-    text_color = '#AFC5D8' if 'dark' in path.name else '#536779'
+    text_color = '#a1a1a6'
     # Snake SVG reserves 32px above the grid; place labels in that space.
     labels = ET.SubElement(root, f'{{{NS}}}g', {
         'fill': text_color, 'font-family': 'system-ui, -apple-system, Segoe UI, sans-serif',
@@ -62,6 +62,11 @@ def decorate(path, weeks):
     title = ET.Element(f'{{{NS}}}title')
     title.text = f"{os.environ['GITHUB_PROFILE']}: {total} contribuciones en los últimos 12 meses"
     root.insert(0, title)
+    x, y, width, height = root.get('viewBox').split()
+    root.insert(1, ET.Element(f'{{{NS}}}rect', {
+        'x': x, 'y': y, 'width': width, 'height': height,
+        'rx': '14', 'fill': '#050505',
+    }))
     root.set('role', 'img')
     root.set('aria-label', title.text)
     # Keep each cell's initial (real activity) color when motion is disabled.
