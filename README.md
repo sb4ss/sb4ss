@@ -1,97 +1,74 @@
-<h1 align="center" >
-       What's up, I'm Sebastian <img src="https://cdn3.emoji.gg/emojis/7011-active-developer-badge.png" width=25px>
-       <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" width=35px> 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Programador+Full-Stack;Ingenieria+en+sistemas" alt="Typing SVG" />  
-  </a>     
- 
-               
-</div>      
-  
-<img src="./banner.png" alt="Banner" width="auto">   
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Sebastián Zapata Restrepo · Desarrollador full-stack · Cali, Colombia. Pensar, actuar, programar.">
+</picture>
 
-### About me 👨‍💻 ###
-This is my portfolio web: https://sb4ss.vercel.app/
-- I'm 20 years old  
-- I'm studying systems engineering 💻
-- Participant in the hackatoon 2024 in the city of Cali, organized by fedesoft - cenisoft - NIDO.
-- I ♥ Basketball
-- I have been learning autonomously programming for about two years.
-- I'm a student of programming at the Politecnico Internacional de Occidente in Cali, Colombia. 
-- I ♥ Clean Code and hexagonal architecture.  
-- I would like to learn low-level programming by 2026. 
+<p align="center">
+  <a href="https://sb4ss.vercel.app/">Portafolio</a> &nbsp; / &nbsp;
+  <a href="https://sb4ss-blog.vercel.app/">Blog</a> &nbsp; / &nbsp;
+  <a href="https://github.com/sb4ss?tab=repositories">Repositorios</a>
+</p>
 
-### My tech Stack 💻 ###
-<div align="center" >
-       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >     
-</div>
+## Hola, soy Sebastián
 
-<div align="center" > 
-       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
-       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
-</div>
-<div align="center" >
-       <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" >
-       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
-       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" >
-       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-       
-</div>
+Soy desarrollador full-stack en Cali, Colombia. Me gusta construir aplicaciones web, entender cómo funcionan y mantener el código claro. El aprendizaje autónomo, el clean code y la arquitectura hexagonal forman parte de mi manera de acercarme al software.
 
-### Extras and frameworks 🔥 ### 
-<div align="center" >
-       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-</div>
-<div align="center" >
-       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-       
-</div>
-<div align="center" >
-       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-       <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</div>
-<div align="center" >
-       <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-       <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+- **Formación:** estudiante de Ingeniería de Sistemas y de programación en el Politécnico Internacional de Occidente.
+- **Experiencia:** participante del hackathon de 2024 en Cali, organizado por Fedesoft, Cenisoft y NIDO.
+- **Explorando:** Rust, programación de bajo nivel y microservicios.
+- **Fuera del código:** baloncesto.
 
-</div>
+## Proyectos seleccionados
 
-<div align="center" >
-       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-<div align="center" >
-       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-       <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-        <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-</div>
+### TaskFlow
 
-<br>
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sb4ss&theme=github_dark)
-  
-<br/>
+Organiza tareas y proyectos para facilitar el trabajo en equipo. [Frontend](https://github.com/sb4ss/taskflow-frontend) · [Backend](https://github.com/sb4ss/taskflow-backend)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sb4ss&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sb4ss&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sb4ss&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sb4ss&theme=github_dark&utcOffset=8)
-<br/>
- 
-<img src="./made-whit-♥.svg" alt="svg" width="auto">
+### Coffe AI
 
+Interfaz para conversar con un modelo generativo de texto. [Frontend](https://github.com/sb4ss/coffeai-front) · [Backend](https://github.com/sb4ss/coffeaibackend)
 
-   
+### Pynasa
+
+Proyecto alrededor de una biblioteca de Python para interactuar con la API de la NASA. [Repositorio](https://github.com/sb4ss/pynasa)
+
+## Tecnologías
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+### Backend y datos
+
+![Node.js](https://img.shields.io/badge/Node.js-417E38?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-116149?style=flat-square&logo=mongodb&logoColor=white)
+
+### Entorno de trabajo
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/Bash-293036?style=flat-square&logo=gnubash&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+
+<details>
+  <summary>Otras herramientas que he utilizado</summary>
+
+HTML, CSS, Bootstrap, Ubuntu, Arduino y Arduino IDE, Visual Studio Code, Netlify, Notion, Trello y Jira.
+
+</details>
+
+## Actividad en GitHub
+
+Mi calendario de contribuciones de los últimos 12 meses, convertido en una animación. Se actualiza diariamente e incluye etiquetas de los meses.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
+  <img src="./assets/contributions-light.svg" width="100%" alt="Calendario mensual de contribuciones de sb4ss: una serpiente recorre las casillas de actividad de los últimos 12 meses.">
+</picture>
+
+## Conecta conmigo
+
+Puedes conocer más sobre mi trabajo en el [portafolio](https://sb4ss.vercel.app/), leer lo que comparto en mi [blog](https://sb4ss-blog.vercel.app/) o explorar mis [repositorios](https://github.com/sb4ss?tab=repositories).
+
+**Pensar, actuar, programar.**
 

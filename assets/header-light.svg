@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="288" viewBox="0 0 1200 288" role="img" aria-labelledby="title desc">
+<title id="title">Sebastián Zapata Restrepo</title>
+<desc id="desc">Desarrollador full-stack en Cali, Colombia. Pensar, actuar, programar.</desc>
+<rect width="1200" height="288" rx="14" fill="#EEF5F7"/>
+<path d="M48 50v188" stroke="#1D8A8A" stroke-width="5" stroke-linecap="round"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="78" y="86" font-size="22" fill="#2374AB" font-weight="600">Hola, soy Sebastián</text>
+<text x="76" y="145" font-size="46" fill="#132C43" font-weight="700">Zapata Restrepo.</text>
+<text x="78" y="188" font-size="24" fill="#132C43">Desarrollador full-stack</text>
+<text x="78" y="228" font-size="18" fill="#536779">Cali, Colombia · Pensar, actuar, programar.</text>
+<text x="951" y="104" text-anchor="middle" font-size="35" font-weight="700" fill="#132C43">sb4ss</text>
+<path d="M809 164h284" stroke="#CADDE4" stroke-width="2"/>
+<g fill="#EEF5F7" stroke="#CADDE4" stroke-width="2">
+<rect x="795" y="138" width="82" height="52" rx="10"/>
+<rect x="910" y="138" width="82" height="52" rx="10"/>
+<rect x="1025" y="138" width="82" height="52" rx="10"/>
+</g>
+<g font-size="18" font-weight="600" text-anchor="middle" fill="#1D8A8A">
+<text x="836" y="170">UI</text><text x="951" y="170">API</text><text x="1066" y="170">Datos</text>
+</g>
+<text x="951" y="228" text-anchor="middle" font-size="16" fill="#536779">De la idea a la aplicación.</text>
+</g></svg>

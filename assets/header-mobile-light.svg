@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-labelledby="title desc">
+<title id="title">Sebastián Zapata Restrepo</title><desc id="desc">Desarrollador full-stack en Cali, Colombia. Pensar, actuar, programar.</desc>
+<rect width="600" height="270" rx="14" fill="#EEF5F7"/>
+<path d="M28 38v194" stroke="#1D8A8A" stroke-width="4" stroke-linecap="round"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="52" y="69" font-size="22" fill="#2374AB" font-weight="600">Hola, soy</text>
+<text x="50" y="119" font-size="38" fill="#132C43" font-weight="700">Sebastián Zapata Restrepo.</text>
+<text x="52" y="166" font-size="27" fill="#132C43">Desarrollador full-stack</text>
+<text x="52" y="207" font-size="22" fill="#536779">Cali, Colombia</text>
+<text x="52" y="239" font-size="22" fill="#536779">Pensar, actuar, programar.</text>
+</g></svg>

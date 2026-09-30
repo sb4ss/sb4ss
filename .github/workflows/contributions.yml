@@ -1,0 +1,57 @@
+name: Update contribution animation
+
+on:
+  schedule:
+    - cron: '20 11 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/contributions.yml
+      - scripts/decorate_contributions.py
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-animation
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+
+      - name: Generate light and dark contribution snakes
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/contributions-light.svg?color_snake=#2374AB&color_dots=#EEF2F6,#BAE2E0,#6CC4BD,#299A94,#136E70
+            assets/contributions-dark.svg?palette=github-dark&color_snake=#7CB8E2&color_dots=#1D3347,#234F59,#267D80,#47AEA7,#8AD5CB
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add month labels and reduced motion support
+        run: python3 scripts/decorate_contributions.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_PROFILE: ${{ github.repository_owner }}
+
+      - name: Publish updated animation
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contributions-light.svg assets/contributions-dark.svg
+          if git diff --cached --quiet; then
+            echo 'Contribution animation is already up to date.'
+            exit 0
+          fi
+          git commit -m 'chore: refresh contribution animation'
+          git pull --rebase origin main
+          git push origin HEAD:main
