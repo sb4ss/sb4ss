@@ -24,7 +24,7 @@ Me gusta entender lo que hay detrás del código y aprender probando. Me interes
 - 🏆 Participé en el **hackathon de Cali 2024**, organizado por Fedesoft, Cenisoft y NIDO.
 - 🏀 También me gusta el **baloncesto**.
 
-## 🦜 En qué estoy trabajando: Tukicode
+## 🐸 En qué estoy trabajando: Tukicode
 
 <a href="https://github.com/tuki-labs/tukicode">
 <picture>
